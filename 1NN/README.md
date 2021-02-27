@@ -19,7 +19,7 @@ NN <- function(xl, z, metricFunction = euclideanDistance) {
 }
 ```
 
-![1NN на примере лепестков ирисов Фишера](/Rplot.png)
+![1NN на примере лепестков ирисов Фишера](./Rplot.png)
 
 **Достоинства**
 + Быстрая и простая реализация
